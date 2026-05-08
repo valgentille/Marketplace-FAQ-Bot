@@ -138,5 +138,4 @@ Tu es un assistant FAQ pour [votre entreprise].
 """
 ```
 
-## Licence
-MIT
+
